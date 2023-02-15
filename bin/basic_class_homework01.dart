@@ -1,5 +1,13 @@
 /*
-Create a "Person" class
+Create a "Person" class "Shaxs" sinfini yarating
 */
+class Person{
 
-void main() {}
+
+
+}
+void main(){
+  Person x = Person();
+}
+
+
