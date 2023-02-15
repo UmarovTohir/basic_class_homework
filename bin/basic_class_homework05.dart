@@ -15,7 +15,7 @@ Create an object named "p3" whose name is "Jasur"
 class Person{
   String  name = '';
   Person(String name){
-    this.name;
+    this.name = name;
   }
 }
 void main() {

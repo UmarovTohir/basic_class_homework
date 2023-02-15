@@ -10,8 +10,8 @@ class Person{
   String name = 'Tohir';
   int age = 25;
   Person(String name ,int age){
-   this.name;
-   this.age;
+   this.name = name;
+   this.age = age;
   }
 }
 void main() {
